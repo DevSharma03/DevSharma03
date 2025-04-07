@@ -132,17 +132,12 @@ Cloud-hosted full-stack event management application with dashboard interface an
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 I'm always open to exciting projects, collaborations, and knowledge sharing.  
 📬 Email: [work.devashishsharma09@gmail.com](mailto:work.devashishsharma09@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/devsharma09](https://linkedin.com/in/devsharma09)
 
 ---
-
-### 🏷️ Hashtags & Interests
-
-`#FullStackDeveloper` `#MERNStack` `#ReactJS` `#NodeJS` `#CloudComputing`  
-`#GenerativeAI` `#MongoDB` `#Python` `#OpenSourceContributor` `#CyberSecurity`
 
 
