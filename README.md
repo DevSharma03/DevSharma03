@@ -1,87 +1,110 @@
-<h1 align="center">👋 Hello! I'm Devashish Sharma</h1>
+<h1 align="center">Hi there! 👋 I'm Devashish Sharma</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Cloud & Cybersecurity Explorer</h3>
 
 <p align="center">
-  <b>Full Stack Developer | AI & ML Enthusiast | Cloud & Security Explorer</b><br/>
-  <a href="https://www.linkedin.com/in/devsharma09" target="_blank">📍 LinkedIn</a> • 
-  <a href="https://github.com/DevSharma03" target="_blank">💻 GitHub</a> • 
-  📫 work.devashishsharma09@gmail.com
+  <a href="https://www.linkedin.com/in/devsharma09/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.devashishsharma09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevSharma03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I’m a detail-oriented and highly motivated **Full Stack Developer** with a passion for building robust, scalable, and user-centric web applications. My background spans across **MERN stack development**, **AI integrations**, and **cloud-based solutions**. I enjoy solving real-world problems with clean and efficient code.
+I'm a passionate and detail-oriented **Full Stack Web Developer** who loves to design, build, and scale dynamic and secure web applications. With strong foundations in both frontend and backend technologies, I also explore how **AI and Generative Tools** can enhance software development workflows.
 
-My professional journey involves working with both startups and academic projects, giving me practical exposure to both collaborative team environments and independent project development.
-
----
-
-## 🛠 Technical Proficiencies
-
-**Frontend:**  
-`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap`  
-
-**Backend & APIs:**  
-`Node.js` · `Express.js` · `Python` · `Django` · `Spring Boot` · `REST APIs`  
-
-**Database & ORM:**  
-`MongoDB` · `MySQL` · `Mongoose` · `Hibernate`  
-
-**Tools & Platforms:**  
-`Git & GitHub` · `Postman` · `VS Code` · `IntelliJ IDEA` · `MongoDB Compass`  
-
-**Cloud & AI Technologies:**  
-`Google Cloud Platform (GCP)` · `Generative AI` · `AI Prompting` · `Cursor AI`
+I enjoy solving complex problems, experimenting with new tools, and constantly upgrading my skills in cloud, security, and modern web technologies.
 
 ---
 
-## 🎓 Certifications
+### 🛠️ Tech Stack
 
-- **Full Stack Web Development (MERN Stack)** – Udemy  
-- **Google Data Analytics Professional Certificate** – Coursera  
-- **Google IT Automation with Python** – Coursera  
-- **Google Cybersecurity Professional Certificate** – Coursera  
-- **Data Visualization with Tableau** – Mind Luster  
+#### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
----
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🌟 Featured Projects
+#### 🖥 Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### 📌 Med-Track
-**An AI-powered medicine reminder and prescription analyzer.**  
-Utilizes OCR to extract data from handwritten prescriptions and sets scheduled medicine intake alerts.  
-**Tech Stack:** React.js · Python · REST API · MySQL
+#### 🗃 Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-### 📌 ERP Web Application  
-**A role-based portal for administrators, faculty, and students.**  
-Secure authentication, access management, and responsive design with seamless user interaction.  
-**Tech Stack:** Node.js · Express.js · MongoDB · JavaScript · EJS
-
----
-
-### 📌 Event-Pro  
-**Cloud-hosted event management platform.**  
-Real-time updates and dashboard interfaces for managing user-generated events.  
-**Tech Stack:** Spring Boot · Hibernate · React.js · MySQL
+#### ☁️ Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🎯 Goals
+### 📚 Certifications
 
-- Contribute to impactful open-source and enterprise-level projects  
-- Deepen expertise in AI-driven development and cloud automation  
-- Collaborate with like-minded professionals on innovative solutions  
-- Stay aligned with the latest tech trends and best practices  
+- ✅ Full Stack Web Development with MERN – *Udemy*
+- ✅ Google Data Analytics Professional Certificate – *Coursera*
+- ✅ Google IT Automation with Python – *Coursera*
+- ✅ Google Cybersecurity Professional Certificate – *Coursera*
+- ✅ Data Visualization with Tableau – *Mind Luster*
 
 ---
 
-## 🤝 Let’s Connect
+### 💼 Highlight Projects
 
-I’m always open to networking, collaborations, and opportunities to grow together.  
-📩 Reach out via [LinkedIn](https://www.linkedin.com/in/devsharma09) or drop an email at **work.devashishsharma09@gmail.com**
+#### 🩺 Med-Track
+A smart prescription reader that uses OCR to analyze prescriptions and create medication reminders.
+> **Tech:** React.js · Python · MySQL · REST APIs
+
+#### 🏫 ERP Web App
+Role-based educational ERP with secure login and role management for admins, faculty, and students.
+> **Tech:** Node.js · Express.js · MongoDB · JavaScript
+
+#### 🎯 Event-Pro
+A scalable event management system built using Spring Boot and React for real-time event handling.
+> **Tech:** Spring Boot · Hibernate · React.js · MySQL
+
+---
+
+### 🎯 2025 Goals
+
+- 🚀 Contribute to open-source AI & cloud projects  
+- 💼 Land impactful full-stack engineering roles  
+- ☁️ Build expertise in GCP, CI/CD & DevOps pipelines  
+- 🤖 Explore the future of Generative AI and security-focused apps  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSharma03&show_icons=true&theme=default&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSharma03&layout=compact&theme=default" />
+</p>
+
+---
+
+### 🔗 Let’s Connect
+
+💼 LinkedIn: [www.linkedin.com/in/devsharma09](https://www.linkedin.com/in/devsharma09)  
+📧 Email: [work.devashishsharma09@gmail.com](mailto:work.devashishsharma09@gmail.com)  
+
+---
+
+### 🏷️ #FullStackDeveloper #MERN #React #NodeJS #Python #GCP #MongoDB #GenerativeAI #WebDev #Cybersecurity #OpenSource #AIinTech
 
 ---
 
