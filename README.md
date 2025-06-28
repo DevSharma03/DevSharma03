@@ -65,7 +65,6 @@ Let’s connect and collaborate on something innovative! ✨
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-2C8EBB?style=for-the-badge&logo=spacy&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-0081CB?style=for-the-badge&logo=google&logoColor=white)
 
 
 #### 🧱 Databases  
