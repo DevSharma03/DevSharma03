@@ -90,9 +90,9 @@ Let’s connect and collaborate on something innovative! ✨
 
 ✅ Google Data Analytics Professional Certificate – *Coursera*
 
-✅ Google IT Automation with Python – *Coursera*
+✅ Python Professional Certification – *OpenEDG Python Institute*
 
-✅ Google Cybersecurity Certificate – *Coursera*
+✅ Machine Learning Specialist Certification – *LinkedIn Learning*
 
 ✅ Tableau Data Visualization – *Mind Luster*
 
