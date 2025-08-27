@@ -18,15 +18,17 @@
 
 ## 🚀 About Me 
 
-**Full-Stack Web & Machine Learning Developer | Architecting Scalable Solutions ☁️** 
+**AI/ML Engineer & Data Scientist | Full-Stack Product Developer 🚀** 
 
-I’m a passionate **Full-Stack Developer** & **Machine Learning Engineer** with hands-on experience in building secure, scalable web applications and intelligent systems.
+A dedicated **Machine Learning Engineer** & **Full Stack Developer** focused on transforming complex data into intelligent, real-world applications.
 
-💻 Skilled in **React.js**, **Node.js**, **Django**, **Python**, and **JavaScript (ES6+)**, I craft end-to-end solutions using the **MERN stack** and modern web frameworks.  
-🧠 On the **ML/AI** side, I work with **TensorFlow**, **Keras**, and **NLP**, developing models that automate tasks and support data-driven decisions.  
-📦 I’ve built multiple **prototypes** for management-based problem statements, turning real-world ideas into functional **full-stack applications**.  
-🔐 Currently researching the implementation of **AI/ML in Cybersecurity**, with a focus on **network security** and **IT management systems**.  
-🚀 Familiar with **AWS**, **GCP**, **Docker**, **GitHub Actions**, and **CI/CD pipelines** to deploy and scale modern applications confidently.
+🧠 Core ML/DS: Building predictive models and NLP solutions with Python, TensorFlow, & Keras.
+
+🔐 Domain Focus: Applying AI to enhance Cybersecurity, specifically in network security and IT automation.
+
+💻 End-to-End Development: I bridge AI with software engineering, using React, Node.js, & Django to build and deploy complete, user-focused products.  
+
+☁️ Deployment & Scale: Proficient with AWS, GCP, Docker, and CI/CD for reliable, scalable systems.
 
 💡 I'm always learning, building, and exploring new technologies to make a meaningful impact.  
 Let’s connect and collaborate on something innovative! ✨
@@ -86,47 +88,44 @@ Let’s connect and collaborate on something innovative! ✨
 
 ## 🎓 Certifications
 
-✅ Full Stack Web Development with MERN – *Udemy*
-
-✅ Google Data Analytics Professional Certificate – *Coursera*
-
-✅ Python Professional Certification – *OpenEDG Python Institute*
-
 ✅ Machine Learning Specialist Certification – *LinkedIn Learning*
 
-✅ Tableau Data Visualization – *Mind Luster*
+✅ Google Data Analyst Professional Certificate – *Google*
+
+✅ Data Engineering Foundations Professional Certificate – *Astronomer*
+
+✅ Full Stack Web Development with MERN Stack & GenAI – *Udemy*
+
+✅ Python Programming Professional Certification – *OpenEDG Python Institute*
+
+✅ CI/CD Pipeline Build – *LinkedIn Learning*
+
+✅ JavaScript Foundations Professional Certificate - *Mozilla*
 
 ---
 
 ## 🧪 Featured Projects
 
-#### 🩺 **Med-Track**
-An AI-enabled prescription reader and medication reminder system with OCR and scheduling features.  
-**Stack:** React · Python · REST APIs · MySQL  
+#### 💼 **ApplyXpert**
+Architected the core features for a student-focused job application tool, including an automated resume analyzer and a job matching engine. The system’s NLP model achieved 97% accuracy, providing students with actionable feedback to improve their CVs and discover relevant career opportunities. 
 
-#### 📚 **ERP Web Portal**
-Secure, multi-role educational platform for students, faculty, and admin management.  
-**Stack:** Node.js · Express · MongoDB · JavaScript  
+**Stack:** Python · spaCy · NLP · REST APIs · React.js · Node.js · Express.js · MongoDB  
 
-#### 🎟 **Event-Pro**
-Cloud-hosted full-stack event management application with dashboard interface and user analytics.  
-**Stack:** Spring Boot · Hibernate · React · MySQL  
+#### 👕 **StyleMate**
+Engineered a full-stack AI fashion recommendation platform, developing a computer vision model (OpenCV, CNN) deployed via a FastAPI backend and integrating it with a React.js front end and MongoDB database, resulting in a 30% increase in recommendation accuracy. 
+
+**Stack:** Python · OpenCV · CNN · Hugging Face · Fast API · React.js · MongoDB 
+
+#### 🛡️ **Network Intrusion Detection Systemo**
+Fortified network security by architecting an end-to-end anomaly detection platform, achieving 94% accuracy in identifying threats on live traffic. The system leveraged an Isolation Forest model deployed via a scalable FastAPI service and featured a real-time Leaflet dashboard for immediate incident analysis.
+
+**Stack:** Python · R · FastAPI · Isolation Forest · Leaflet  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevSharma03&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180" alt="Devashish's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSharma03&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" alt="Top Languages"/> </p>
-
----
-
-## 🎯 2025 Goals
-
-- 🧠 Expand expertise in AI + Cloud development  
-- 💻 Launch open-source tools & contribute to developer communities  
-- 🔒 Build secure and scalable SaaS applications focused on real-world problem solving
-- 🤖 Innovate in AI Prompt Engineering, automation, and intelligent systems
-- 🧪 Continue research on implementing ML & AI in cybersecurity, with a focus on network security and management sector
 
 ---
 
