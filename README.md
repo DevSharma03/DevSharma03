@@ -22,11 +22,6 @@
 
 A dedicated engineer focused on **building intelligent, data-driven systems** that bridge AI, cybersecurity, and full-stack development.  
 
-🧠 **Core ML/DS:** Predictive modeling, NLP, anomaly detection, computer vision  
-🔐 **Domain Focus:** AI for cybersecurity & IT automation  
-💻 **Full-Stack Development:** React · Node.js · Django · FastAPI  
-☁️ **Deployment & Scale:** AWS · GCP · Docker · CI/CD  
-
 ---
 
 ## 🧰 Tech Stack  
