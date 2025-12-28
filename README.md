@@ -110,14 +110,6 @@ AWS · GCP · Docker · GitHub Actions · CI/CD
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevSharma03&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSharma03&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🎯 Currently Exploring
 
@@ -135,11 +127,6 @@ AWS · GCP · Docker · GitHub Actions · CI/CD
 
 ⭐ If you like my work, consider following or starring my repositories!
 
-
-📬 Email: [work.devashishsharma09@gmail.com](mailto:work.devashishsharma09@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/devsharma09](https://linkedin.com/in/devsharma09)  
-💻 GitHub: [github.com/DevSharma03](https://github.com/DevSharma03)  
-🌐 Portfolio: [devsharma03.github.io/DevPortfolio](https://devsharma03.github.io/DevPortfolio)  
 
 
 
