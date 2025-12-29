@@ -22,46 +22,54 @@ I build scalable, production-ready AI systems using Machine Learning, NLP, LLMs,
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I’m an **AI/ML Engineer and Data Scientist** focused on building **real-world, production-grade AI systems**.
+I’m an **AI/ML Engineer & Data Scientist** focused on building **production-ready, real-world AI systems** — from research and experimentation to deployment and scale.
 
-- 🧠 Experience with **LLMs, RAG, NLP, anomaly detection**
-- ☁️ Deploying ML systems on **AWS & GCP**
-- ⚙️ Strong in **end-to-end ML pipelines** (data → model → API → UI)
-- 🛡️ Hands-on experience in **cybersecurity analytics**
+- 🧠 Hands-on experience with **LLMs, RAG systems, NLP, traditional machine learning, deep learning, and neural networks**
+- ☁️ Experience deploying and scaling ML solutions on **AWS & GCP**, including **stateful and stateless architectures**
+- ⚙️ Strong expertise in **end-to-end ML pipelines** (data ingestion → model training → APIs → UI)
+- 🛡️ Hands-on experience in **full-stack development**, enabling seamless integration of AI into real products
 
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science** and working on impactful AI-driven platforms.
+Currently pursuing a **B.Tech in Artificial Intelligence & Data Science** and actively working on **impact-driven, production-grade AI platforms**.
 
 ---
 
 ## 🧠 Core Expertise (2025 Focus)
 
-- **LLMs & Agentic AI:** RAG, Prompt Engineering, Orchestrator–Worker systems  
-- **Machine Learning:** Classification, Clustering, Anomaly Detection  
-- **NLP:** Resume parsing, similarity matching, embeddings  
-- **MLOps:** FastAPI, Docker, CI/CD, scalable inference  
-- **Cloud:** AWS (EC2, Lambda), GCP  
-- **Full Stack:** React, Node.js, MongoDB for AI platforms  
+- **LLMs & Agentic AI:** Retrieval-Augmented Generation (RAG), prompt engineering, multi-agent and orchestrator–worker system architectures
+
+- **Machine Learning:** Supervised and unsupervised learning — classification, clustering, regression, feature engineering, and model evaluation
+
+- **Natural Language Processing (NLP):** Text preprocessing and representation, tokenization (WordPiece/BPE), embeddings, transformer-based models (BERT, RoBERTa, DistilBERT), text classification, semantic similarity, and information extraction *(Foundational NLP: lemmatization, stemming, stop-word handling, TF-IDF)*
+
+- **MLOps & Deployment:** FastAPI-based inference services, Dockerized ML workflows, CI/CD pipelines, scalable and production-ready model deployment
+
+- **Cloud Platforms:** AWS (EC2, Lambda), Google Cloud Platform (GCP)
+
+- **Full-Stack Development:** React, Node.js, Express.js, MongoDB, Mongoose, SQL, GraphQL — building end-to-end AI-powered platforms
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python · Java · JavaScript · TypeScript · SQL · R  
+Python · Java · JavaScript · SQL · R  
 
 **AI / ML:**  
-Scikit-learn · TensorFlow · PyTorch · spaCy · Isolation Forest  
+Scikit-learn · TensorFlow · PyTorch · spaCy · NLTK
 
 **LLMs & GenAI:**  
 RAG · LangChain · LangGraph · Prompt Engineering  
 
 **Backend & APIs:**  
-FastAPI · Node.js · Express · Django  
+FastAPI · Node.js · Express · Django · RestAPI  
 
 **Frontend:**  
-React.js · Next.js · Bootstrap · Tailwind CSS  
+React.js · Bootstrap · Tailwind CSS · EJS Templates  
+
+**Data Engineering & Pipelines:**  
+Pandas · NumPy · Feature Engineering · ETL · EDA · Streaming Basics  
 
 **Databases:**  
 MongoDB · PostgreSQL · MySQL  
@@ -74,30 +82,26 @@ AWS · GCP · Docker · GitHub Actions · CI/CD
 ## 🧪 Featured Projects
 
 ### 🔹 LifeSync — AI-Powered Productivity & Life Analytics Platform
-**Tech:** Python · FastAPI · React · MongoDB · LLMs  
+**Tech Stack:** Python, spaCy, LightGBM, GaussianMixture, LLMs (Groq), FastAPI, React.js, Express.js, MongoDB, Prompt Engineering 
 
-- Built a full-stack AI platform for tracking **health, finance, habits, and productivity**
-- Integrated a **RAG-based AI assistant** with orchestrator–worker architecture
-- Developed ML models for **user scoring & clustering (95%+ accuracy)**
-- Designed scalable APIs for real-time inference
+- Built a **full-stack platform** to help users improve their **health, finances, productivity, & well-being** by tracking **habits, goals & utilities**.
+- Integrated a **RAG-based AI assistant powered by LLMs**, leveraging an orchestrator-worker architecture to deliver scalable, personalized, data-driven insights.
+- Developed **ML models for score generation and user clustering with 95%+ accuracy** and used synthetic data for training with real time data to enhance model performance and scalability.
 
 ---
 
 ### 🔹 ApplyXpert — ATS Resume Analyzer (NLP)
-**Tech:** Python · spaCy · FastAPI · React · MongoDB  
+**Tech Stack:** Python, spaCy, scikit-learn, TF-IDF, React.js, Node.js, Express.js, MongoDB, Fast-API
 
-- Developed an **end-to-end ATS resume–job matching system**
-- Achieved **97%+ resume–JD alignment accuracy**
-- Generated **actionable, AI-driven CV improvement feedback**
+- Developed an **end-to-end NLP-based AI-powered ATS resume analyzer** with interactive UI to compare resumes against job desc.
+- Implemented personalized, **AI-driven feedback to improve CV quality**, achieving **97%+ accuracy** in CV–job description alignment and **enabling more effective job applications.**
 
 ---
 
 ### 🔹 Network Traffic Anomaly Detection (Cybersecurity)
-**Tech:** Python · R · Isolation Forest · FastAPI · Leaflet  
-
-- Built an **anomaly detection system for live network traffic**
-- Achieved **94% detection accuracy**
-- Designed a **real-time visualization dashboard** for security teams
+**Tech Stack:** Python, R, Fast-API, Isolation Forest, Leaflet, HTML
+- Designed and applied an **end-to-end network traffic anomaly detection system using Isolation Forest**, enabling identification of suspicious patterns and security threats with **alert generation model.**
+- Deployed model via **Fast API with real-time Leaflet dashboard** for visual analysis, achieving **94% detection accuracy** and **supporting faster threat identification and data driven security decision.**
 
 ---
 
@@ -115,6 +119,7 @@ AWS · GCP · Docker · GitHub Actions · CI/CD
 
 - Agentic AI & LLM automation
 - AI-driven cybersecurity systems
+- AI-driven Agricultural Systems
 - Advanced MLOps & scalable model serving
 - Generative AI + real-time analytics
 
