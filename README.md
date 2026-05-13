@@ -28,7 +28,7 @@ I'm an **AI/ML Engineer & Data Scientist** focused on building **production-read
 
 Currently pursuing a **B.Tech in Artificial Intelligence & Data Science** and actively working on **impact-driven, production-grade AI platforms**.
 
-**Core Focus Areas:**
+**Core Areas of Focus:**
 - 🧠 **LLMs & Agentic AI** - RAG systems, multi-agent architectures, prompt engineering
 - 🤖 **Machine Learning** - Supervised & unsupervised learning, advanced model optimization
 - 📊 **NLP & Transformers** - Text classification, semantic analysis, transformer models
@@ -37,9 +37,9 @@ Currently pursuing a **B.Tech in Artificial Intelligence & Data Science** and ac
 
 ---
 
-## 🎯 Core Expertise
+## 🧠 Core Expertise
 
-| Expertise Area | Technologies |
+| Area | Technologies |
 |---|---|
 | **LLMs & Agentic AI** | RAG · LangChain · LangGraph · Prompt Engineering · Multi-Agent Systems |
 | **Machine Learning** | Classification · Clustering · Regression · Feature Engineering · Model Evaluation |
@@ -47,34 +47,9 @@ Currently pursuing a **B.Tech in Artificial Intelligence & Data Science** and ac
 | **MLOps & Deployment** | FastAPI · Docker · CI/CD Pipelines · Scalable Model Serving |
 | **Cloud Platforms** | AWS (EC2, Lambda, SageMaker) · GCP (Compute Engine, Vertex AI) |
 | **Full-Stack** | Python · Node.js · Express.js · React.js · MongoDB · PostgreSQL · GraphQL |
-
----
-
-## 🧰 Tech Stack
-
-**Languages:**  
-Python · Java · JavaScript · SQL · R  
-
-**AI / ML:**  
-Scikit-learn · TensorFlow · PyTorch · spaCy · NLTK · LightGBM
-
-**LLMs & GenAI:**  
-RAG · LangChain · LangGraph · Prompt Engineering · Groq
-
-**Backend & APIs:**  
-FastAPI · Node.js · Express · Django · RestAPI  
-
-**Frontend:**  
-React.js · Bootstrap · Tailwind CSS · EJS Templates  
-
-**Data Engineering:**  
-Pandas · NumPy · Feature Engineering · ETL · EDA  
-
-**Databases:**  
-MongoDB · PostgreSQL · MySQL · Vector Databases
-
-**Cloud & DevOps:**  
-AWS · GCP · Docker · GitHub Actions · CI/CD  
+| **Languages** | Python · Java · JavaScript · SQL · R |
+| **ML Frameworks** | Scikit-learn · TensorFlow · PyTorch · spaCy · NLTK · LightGBM |
+| **Data & Databases** | Pandas · NumPy · ETL · EDA · Vector Databases · MySQL |
 
 ---
 
@@ -82,7 +57,7 @@ AWS · GCP · Docker · GitHub Actions · CI/CD
 
 ### 🔹 LifeSync — AI-Powered Productivity & Life Analytics Platform
 
-**Tech Stack:** Python, spaCy, LightGBM, GaussianMixture, LLMs (Groq), FastAPI, React.js, Express.js, MongoDB, Prompt Engineering
+**Tech Stack:** Python, spaCy, LightGBM, GaussianMixture, LLMs (Groq), FastAPI, React.js, Express.js, MongoDB
 
 **What I Built:**
 - Full-stack platform helping users improve health, finances, productivity, and well-being through intelligent habit and goal tracking
